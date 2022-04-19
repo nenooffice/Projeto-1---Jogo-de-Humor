@@ -1,0 +1,25 @@
+#background{
+  background-image: linear-gradient(to bottom right, rgba(209,92,24), grey);
+}
+
+#botao_m{
+  background-color: rgb(195, 172, 23);
+  border: 1px solid rgb(169, 48, 48);
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#titulo_banner{
+  color: rgb(198, 62, 62);
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#imagem_m{
+  width: 15%;
+  height: 15%;
+  align-items: center;
+}
